@@ -1,0 +1,2 @@
+for_planning: data/QA_assignment_deliveries_for_planning.json
+planned_route_api: https://my-json-server.typicode.com/harry03091986-eng/planned_route/planned_route
